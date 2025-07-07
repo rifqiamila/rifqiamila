@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rifqia</h1>
+<h3 align="center">A curious uni student navigating the chaos of code and creation 💻✨</h3>
 
-<!--
-**rifqiamila/rifqiamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 **Currently in my learning era**  
+I’m still figuring it out — but here’s what’s on my radar:
+- Making something fun (hopefully a portfolio? 🤷‍♀️)
+- Learning random cool things
+- Preparing for a possible internship 🤞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I’d love to do someday**  
+- Build my own app or tool  
+- Contribute to open-source  
+- Create something I’m proud of
+
+---
+
+### 🧠 Not-so-structured tech stuff
+
+I’m still new and exploring, but here are some basics I’ve touched:
+
+- 💬 Languages: Java, C, Python (sorta), maybe HTML/CSS/JS (soon?)
+- 🧩 Tools: GitHub, VS Code, Google + Copilot combo 💀
+
+---
+
+### ✨ Chaos Corner (a.k.a what I'm into)
+- 🎧 Vibes: chill lo-fi, anime OSTs, chaotic Spotify shuffles  
+- 🌀 Brain Status: “maybe I’ll do that thing I said last week... someday”
+
+---
+
+### 📊 GitHub Stats (for ✨aesthetic✨)
+
+> "I commit, therefore I exist."
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rifqiamila&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqiamila&layout=compact&theme=tokyonight)
+
+<sub>⚠️ Warning: these stats may contain traces of C, chaos, and coping 💀</sub>
+
+---
+
+### 📫 Let’s Connect (maybe?)
+- 📷 Instagram: [@rifqiamila](https://instagram.com/rifqiamila)
+
+---
+
+<sub>✨ Still under construction. Please wear a hard hat. ✨</sub>
