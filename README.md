@@ -35,9 +35,16 @@ I’m still new and exploring, but here are some basics I’ve touched:
 
 > "I commit, therefore I exist."
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rifqiamila&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqiamila&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rifqiamila&show_icons=true&theme=tokyonight" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqiamila&layout=compact&theme=tokyonight&card_width=300" />
+    </td>
+  </tr>
+</table>
 
 <sub>⚠️ Warning: these stats may contain traces of C, chaos, and coping 💀</sub>
 
